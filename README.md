@@ -1,6 +1,8 @@
 # first2222
   1丶安装oprncv模块：在命令调试窗口输入pip install TensorFlow -i https://pypi.tuna.tsinghua.edu.cn/simple opencv-python 自动下载opencv模块
+ 
   2丶安装Matplotlib模块：在python端口中输入pip install matplotlib 等待安装完成即可
+
   3丶使用
     （1）print（cv2.getVersionStrring（））#可查看opencv安装版本
     （2）import cv2  调用opencv模块
