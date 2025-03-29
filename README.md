@@ -5,6 +5,7 @@
 
   3丶使用
     （1）print（cv2.getVersionStrring（））#可查看opencv安装版本
+    
     （2）import cv2  调用opencv模块
     
   代码作用  
