@@ -53,6 +53,9 @@
           先选定特征区域后由cv2.TM_CCOEFF_NORMED标准相关匹配算法找到特征相似图
 
     （9）梯度算法
+          用拉普拉斯算法
           laplacian = cv2.Laplacian(gray, cv2.CV_64F)      #计算拉普拉斯边缘
+          用canny算法
+          canny = cv2.Canny(gray, 100, 200)    相邻像素梯度为100时为边缘
 
           
